@@ -10,7 +10,7 @@ The Blog website is a simple blog website of (https://modassir-blog.netlify.app/
 * Open the index.html, style.css & main.js file in your preferred browser.
 ## Usage 💻
 
-<img src="http://127.0.0.1:5500/Modassir%20Blog/image.html">
+![screenshot](https://github.com/modassirquaisar/My-personal-blog-website/blob/main/Modassir%20Blog/images/home.png)
 
 Visit : (https://modassir-blog.netlify.app/)
 
